@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Commit final - classe Pessoa.py" />
+    <list default="true" id="59229ce0-ffd6-48b7-a6b1-765c526ea1fd" name="Changes" comment="Commit final - classe Pessoa.py">
+      <change afterPath="$PROJECT_DIR$/LuminariaSmart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questao1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questao2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questao3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questao4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,61 +45,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.5102484809686845E-6" />
-      <entry key="MS500" value="0.1232365726808787" />
-      <entry key="S2" value="1.8663337152770814" />
-      <entry key="S5" value="4.192972582211347" />
-      <entry key="S10" value="5.7228056230051" />
-      <entry key="S30" value="7.135077009323155" />
-      <entry key="S60" value="7.552528048899195" />
-      <entry key="M2" value="7.772662015297499" />
-      <entry key="M5" value="8.257622110350777" />
-      <entry key="M10" value="13.841087722599053" />
-      <entry key="M15" value="26.058166226044023" />
-      <entry key="M30" value="82.96556641790868" />
-      <entry key="H1" value="217.94310143568163" />
-      <entry key="H2" value="438.9086769591816" />
-      <entry key="H4" value="681.2980081555078" />
-      <entry key="D1" value="1040.4590023534947" />
-      <entry key="W1" value="1125.0603173267712" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000356929829117" />
+      <entry key="S2" value="1.077293987220738" />
+      <entry key="S5" value="1.359137404436594" />
+      <entry key="S10" value="1.6037265472140807" />
+      <entry key="S30" value="2.7897925712230953" />
+      <entry key="S60" value="5.870591758798" />
+      <entry key="M2" value="11.919816382467571" />
+      <entry key="M5" value="29.686664669065102" />
+      <entry key="M10" value="53.94107342239763" />
+      <entry key="M15" value="73.66707706345323" />
+      <entry key="M30" value="132.57038523391716" />
+      <entry key="H1" value="263.20233918002884" />
+      <entry key="H2" value="487.87650554328184" />
+      <entry key="H4" value="745.9858778595362" />
+      <entry key="D1" value="1143.4239215474324" />
+      <entry key="W1" value="1239.0456508413156" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0000000006820482" />
-      <entry key="M2" value="1.0000405238556154" />
-      <entry key="M5" value="1.0366056767642247" />
-      <entry key="M10" value="1.4876435849191503" />
-      <entry key="M15" value="2.374321183510875" />
-      <entry key="M30" value="5.903085287869799" />
-      <entry key="H1" value="12.531985378776923" />
-      <entry key="H2" value="22.312471336381574" />
-      <entry key="H4" value="33.22747559742611" />
-      <entry key="D1" value="50.161867689526304" />
-      <entry key="W1" value="54.27025936092834" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.9052998741512995E-272" />
+      <entry key="S2" value="1.942860639525233E-68" />
+      <entry key="S5" value="1.2163792514092697E-27" />
+      <entry key="S10" value="4.910742282157315E-14" />
+      <entry key="S30" value="5.90130059552218E-5" />
+      <entry key="S60" value="0.012095501440946815" />
+      <entry key="M2" value="0.19876666063014367" />
+      <entry key="M5" value="1.3146244775851224" />
+      <entry key="M10" value="3.0077281990794185" />
+      <entry key="M15" value="4.4154313600236375" />
+      <entry key="M30" value="8.3342930209029" />
+      <entry key="H1" value="15.320470420090269" />
+      <entry key="H2" value="25.77007274671906" />
+      <entry key="H4" value="37.6463705175779" />
+      <entry key="D1" value="56.51960117832776" />
+      <entry key="W1" value="61.17109622991238" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.9794750913488876E-4" />
-      <entry key="MS500" value="0.30303557961256444" />
-      <entry key="S2" value="2.5110684011031505" />
-      <entry key="S5" value="5.026458430118832" />
-      <entry key="S10" value="6.6336785563128755" />
-      <entry key="S30" value="8.103754494486989" />
-      <entry key="S60" value="8.53663973034366" />
-      <entry key="M2" value="8.764696650357951" />
-      <entry key="M5" value="9.289971875941637" />
-      <entry key="M10" value="15.319912502741833" />
-      <entry key="M15" value="28.41804094541819" />
-      <entry key="M30" value="88.84503672263982" />
-      <entry key="H1" value="230.44781027980048" />
-      <entry key="H2" value="461.19671754749334" />
-      <entry key="H4" value="714.5078565155588" />
-      <entry key="D1" value="1090.6166710640987" />
-      <entry key="W1" value="1179.3299355807922" />
+      <entry key="MS100" value="0.8179020585577811" />
+      <entry key="MS500" value="0.9606086541256987" />
+      <entry key="S2" value="1.0509382976964061" />
+      <entry key="S5" value="1.3225452362049386" />
+      <entry key="S10" value="1.5738836509360739" />
+      <entry key="S30" value="2.7749270401141946" />
+      <entry key="S60" value="5.871876585077797" />
+      <entry key="M2" value="12.106151931105549" />
+      <entry key="M5" value="30.979942379625342" />
+      <entry key="M10" value="56.92422788014541" />
+      <entry key="M15" value="78.05719997602257" />
+      <entry key="M30" value="140.8770276510618" />
+      <entry key="H1" value="278.4938206323723" />
+      <entry key="H2" value="513.6207675505594" />
+      <entry key="H4" value="783.6134171787985" />
+      <entry key="D1" value="1199.9389556280637" />
+      <entry key="W1" value="1300.2160470084484" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,38 +111,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.PessoaDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.escopoDeVariaveis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.estrutrasDeRepeticao.executor&quot;: &quot;Run&quot;,
-    &quot;Python.estrutuasDeControle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.estruturasDeControle2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcaoDeAltaOrdem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcao_anonima.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mainInterativo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tiposNumericos.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Docker&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.LuminariaSmart.executor": "Run",
+    "Python.PessoaDemo.executor": "Run",
+    "Python.Questao1.executor": "Run",
+    "Python.Questao2.executor": "Run",
+    "Python.Questao3.executor": "Run",
+    "Python.Questao4.executor": "Run",
+    "Python.escopoDeVariaveis.executor": "Run",
+    "Python.estrutrasDeRepeticao.executor": "Run",
+    "Python.estrutuasDeControle.executor": "Run",
+    "Python.estruturasDeControle2.executor": "Run",
+    "Python.funcaoDeAltaOrdem.executor": "Run",
+    "Python.funcao_anonima.executor": "Run",
+    "Python.funcoes.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mainInterativo.executor": "Run",
+    "Python.tiposNumericos.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "Docker",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="IntroducaoPython" is-module-sdk="true">
@@ -144,8 +156,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PessoaDemo">
-    <configuration name="PessoaDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Questao4">
+    <configuration name="LuminariaSmart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,7 +172,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PessoaDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LuminariaSmart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="escopoDeVariaveis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Questao1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +196,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/escopoDeVariaveis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questao1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcaoDeAltaOrdem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Questao2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +220,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcaoDeAltaOrdem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questao2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcao_anonima" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Questao3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,7 +244,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcao_anonima.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questao3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Questao4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroducaoPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,7 +268,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questao4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PessoaDemo" />
-        <item itemvalue="Python.funcaoDeAltaOrdem" />
-        <item itemvalue="Python.escopoDeVariaveis" />
-        <item itemvalue="Python.funcao_anonima" />
-        <item itemvalue="Python.funcoes" />
+        <item itemvalue="Python.Questao4" />
+        <item itemvalue="Python.Questao3" />
+        <item itemvalue="Python.LuminariaSmart" />
+        <item itemvalue="Python.Questao2" />
+        <item itemvalue="Python.Questao1" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789795164709</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit final - classe Pessoa.py">
+      <option name="closed" value="true" />
+      <created>1789943371738</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1789943371738</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
