@@ -7,7 +7,7 @@ def primeira_questao():
 
     if nivel_acesso > 5:
         print('Acesso librado.')
-        porta_destavada = False
+        porta_destavada = True
     else:
         porta_destavada = True
         print('Acesso negado: Permissão insuficiente.')
